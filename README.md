@@ -1,4 +1,4 @@
-Hi there, I'm Aidyn 👋  
+#Hi there, I'm Aidyn 👋  
 Computer Science student | Backend & AI enthusiast | Astana, Kazakhstan  
 
 🛠 **Tech Stack**  
