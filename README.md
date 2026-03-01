@@ -1,25 +1,35 @@
-# Hi there, I'm Aidyn 👋  
-Computer Science student | Backend & AI enthusiast | Astana, Kazakhstan  
+# 👋 Hi, I'm Aidyn Shaikenov
 
-🛠 **Tech Stack**  
-**Primary:**  
-- Python (backend development, FastAPI, REST APIs)  
-- PostgreSQL (database design, transactions, queries)  
-- Docker (containerization, docker-compose)  
-- Git (version control, collaboration)  
+Computer Science student passionate about **backend development** and **AI-driven systems**.  
+Exploring **practical software solutions** and building scalable, data-driven applications.  
 
-**Familiar with:**  
-- JavaScript (frontend interactions, APIs)  
-- JWT Authentication (secure API endpoints)  
-- Linux/Bash  
-- Data analytics and AI basics  
+---
 
-**Architecture & Patterns:**  
-- RESTful API design  
-- Database normalization  
-- Backend system design  
-- AI-driven data processing  
+## 🛠 Tech Stack
 
-📫 **Contact**  
-Email: aidynshaikenov@gmail.com  
-GitHub: [github.com/Amadeus105](https://github.com/Amadeus105)   
+**Backend & APIs**  
+- Python, FastAPI, REST APIs, JWT Authentication  
+
+**Databases**  
+- PostgreSQL (schema design, transactions, queries)  
+
+**DevOps & Tools**  
+- Docker, Git, Linux/Bash  
+
+**Additional Skills**  
+- JavaScript, AI/ML basics, Data analytics  
+
+---
+
+## 🌱 Interests
+
+- Backend system design & architecture  
+- AI-based analytics & intelligent systems  
+- Real-world problem solving  
+
+---
+
+## 📫 Contact
+
+- **Email:** aidynshaikenov@gmail.com  
+- **GitHub:** [github.com/Amadeus105](https://github.com/Amadeus105)   
