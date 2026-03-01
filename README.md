@@ -1,4 +1,4 @@
-#Hi there, I'm Aidyn 👋  
+# Hi there, I'm Aidyn 👋  
 Computer Science student | Backend & AI enthusiast | Astana, Kazakhstan  
 
 🛠 **Tech Stack**  
@@ -22,5 +22,4 @@ Computer Science student | Backend & AI enthusiast | Astana, Kazakhstan
 
 📫 **Contact**  
 Email: aidynshaikenov@gmail.com  
-GitHub: [github.com/Amadeus105](https://github.com/Amadeus105)  
-Phone: +7 775 082 95 06  
+GitHub: [github.com/Amadeus105](https://github.com/Amadeus105)   
